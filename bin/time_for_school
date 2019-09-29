@@ -26,5 +26,6 @@ jim = User.new
 jim.first_name = "Jim"
 jim.last_name = "Johnson"
 
+# Undefined method 'learn' for jim
 #jim.learn("Some knowledge.")
 
