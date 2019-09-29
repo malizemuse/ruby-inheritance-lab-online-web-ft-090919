@@ -33,4 +33,11 @@ some_more_knowledge = avi.teach
 steve.learn(some_more_knowledge)
 puts "Steve just learned: '#{steve.knowledge.last}' from Avi."
 
+ram = Student.new
+ram.first_name = "Ramon"
+ram.last_name = "Sanchez"
+
+ram.learn(avi.teach)
+
+
 
