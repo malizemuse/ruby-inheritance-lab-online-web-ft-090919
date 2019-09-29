@@ -34,10 +34,12 @@ steve.learn(some_more_knowledge)
 puts "Steve just learned: '#{steve.knowledge.last}' from Avi."
 
 ram = Student.new
-ram.first_name = "Ramon"
-ram.last_name = "Sanchez"
+ram.first_name = "Ongdongi"
+ram.last_name = "Joha"
 
 3.times { ram.learn(avi.teach) }
+
+puts 
 
 
 
