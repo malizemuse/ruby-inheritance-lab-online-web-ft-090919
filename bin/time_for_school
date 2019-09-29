@@ -29,3 +29,8 @@ jim.last_name = "Johnson"
 # Undefined method 'learn' for jim
 #jim.learn("Some knowledge.")
 
+some_more_knowledge = avi.teach 
+steve.learn(some_more_knowledge)
+puts "Steve just learned: '#{steve.knowledge.last}' from Avi."
+
+
