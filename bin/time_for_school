@@ -26,5 +26,5 @@ jim = User.new
 jim.first_name = "Jim"
 jim.last_name = "Johnson"
 
-jim.learn("Some knowledge.")
+#jim.learn("Some knowledge.")
 
