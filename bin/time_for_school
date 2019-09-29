@@ -37,7 +37,7 @@ ram = Student.new
 ram.first_name = "Ramon"
 ram.last_name = "Sanchez"
 
-ram.learn(avi.teach)
+3.times { ram.learn(avi.teach) }
 
 
 
