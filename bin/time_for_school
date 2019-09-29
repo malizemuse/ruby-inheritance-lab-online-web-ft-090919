@@ -39,7 +39,9 @@ ram.last_name = "Joha"
 
 3.times { ram.learn(avi.teach) }
 
-puts 
+puts steve.knowledge
+puts avi.knowledge
+puts ram.knowledge
 
 
 
